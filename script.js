@@ -13,3 +13,5 @@ const sayGreetings = () => {
 }
 
 sayGreetings(); // Call the function to start the countdown
+
+/* This code is now in Master branch */
