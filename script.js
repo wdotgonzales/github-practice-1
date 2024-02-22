@@ -15,3 +15,5 @@ const sayGreetings = () => {
 }
 
 sayGreetings();
+
+// This code is now in Master
