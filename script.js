@@ -1,6 +1,6 @@
 const sayGreetings = () => {
-    const nWord = 'hello world';
-    let nWordArr = nWord.split('');
+    const word = 'hello world';
+    const wordArr = nWord.split('');
     let index = 0;
     let intervalId;
 
